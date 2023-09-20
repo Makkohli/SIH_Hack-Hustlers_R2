@@ -1,3 +1,5 @@
+SIH Round 2 prototype video and PPT: https://drive.google.com/drive/folders/1NibgjFnYbZS12yNrIoou3IRgiAsv97Bz?usp=drive_link
+
 MicroThrive - Micro and Small Enterprise Management App
 MicroThrive is a comprehensive Micro and Small Enterprise (MSE) management application built using JavaScript, React, and Next.js. It is designed to empower micro and small businesses by providing tools to efficiently manage their investments, finances, newsletters, rules and regulations, services, and more. With MicroThrive, you can thrive in the world of small enterprises!
 
